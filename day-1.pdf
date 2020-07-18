@@ -1,1 +1,38 @@
 1.
+Blockchain:-
+         Its an emerging technology where it can overcomes the problems that we are facing with our early days technology.
+		 blockchain involves a series of blocks.in which each blocks contains:-
+		 
+		 1.Block number
+		 2.transaction records
+		 3.SHA hash of the previous block
+		 4.mining key
+		 
+		 Its a peer-to-peer based network that once the we writes its really impossible to makes changes...
+		 
+2.
+Blockchain technology can  overcomes with:-
+          1.authentication issues
+		  2.security issues
+		  3.need of dependance on a middle man to verify our transaction records.
+		 
+3.
+ The features that block chain provides us are:-
+          1.security
+		  2.tamper proof of transaction records
+		  3.verifiability
+		  4.immutable 
+		  5.Unchangable
+		  
+4.
+The block contains:-
+        1.block number
+		2.transaction  records
+		3.unique SHA hash of previous record
+		4.mining key
+		
+5.
+Verifiability of blockchain can be attained by:
+   Since it is  a combination disturbted database and cryptography ,the same balocks  of data are transfered and maintained by many servers or computers
+   if any change in the individual records it changes the subsequent blocks data but not in others shared data.....
+		 
